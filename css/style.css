@@ -1,0 +1,26 @@
+html {
+  position: relative;
+  overflow: hidden;
+}
+html img {
+/*
+  content: '';
+  display: block;
+*/
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+
+  z-index: 1;
+  opacity: 0.25;
+
+/*
+  background: url(http://www.capturedbycarrie.com/blog/wp-content/uploads/2010/12/1224-newborn-triplets-photograph.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+*/
+}
