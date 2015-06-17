@@ -3,10 +3,10 @@
 
 * T^{3} SRC
 
+/Types, Topologic, Topos Systems Research Centre/
+
 #+begin_quote
 Tender loving care for all
 #+end_quote
-
-/Types, Topologic, Topos Systems Research Centre/
 
 It's TLC—Types, Logic, Categories—generalised for all. Whether you're a programmer, logician or mathematician, you should feel at home here.
