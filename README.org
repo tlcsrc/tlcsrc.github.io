@@ -1,5 +1,5 @@
 
-#+title: Triplet SRC /A little TLC for all/
+#+title: Triplet SRC /A little tlc \forall/
 
 The Systems Research Centre[fn:1] where the triplet of /Types/, /Logic/ ε̷ /Categories/ are put first and foremost over bit-twiddling tricks.
 
@@ -17,7 +17,7 @@ generalises to
 
 #+end_center
 
-Whether you're a programmer, logician or mathematician, we have some TLC for you --- /Types/, /Logic/ and /Categories/. We also have a little /tender/ /loving/ /care/ for you---we strongly believe that when you care about the [[http://developerexperience.org/]["developer experience"]], you care about types, and logic, and categories.
+Whether you're a programmer, logician or mathematician, we have a flavour of TLC for you --- /Types/, /Logic/ or /Categories/. You can also enjoy a little /tender/ /loving/ /care/---we believe that when you care about the [[http://developerexperience.org/]["developer experience"]], you care about types, and logic, and categories.
 
 We welcome collaboration with researchers, autodidacts, polymaths --- you! We aren't funded but are open to offers. The initial and only member thus far is [[http://steshaw.org][Steven Shaw]] (me) and frankly, I need a lot of help! To become a member, join the [[https://github.com/triplet-src][triplet-src]] GitHub organisation and/or email [[mailto:src@steshaw.org][src@steshaw.org]].
 
