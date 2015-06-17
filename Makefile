@@ -1,6 +1,9 @@
 .PHONY: all
-all: index.html
-	cp -r index.html css gh-pages
 
-index.html: Makefile README.org css/style.css
-	pandoc --css=css/style.css README.org -o index.html
+all: gh-pages/index.html gh-pages/css/style.css
+
+gh-pages/css/style.css: css/style.css
+	rsync css/style.css gh-pages/css/style.css
+
+gh-pages/index.html: Makefile README.org
+	pandoc --css=css/style.css README.org -o gh-pages/index.html
