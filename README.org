@@ -1,10 +1,11 @@
+#+title: TripleT SRC
 
-* T^{3} SRC
+T^{3} … TTT … Types--Topologic--Topos
 
-** Types–Topologic–Topos Systems Research Centre
+SRC … Systems Research Centre
 
 #+begin_quote
 Tender loving care for all
 #+end_quote
 
-Whether you're a programmer, logician or mathematician, we have some TLC for you: Types, Logic and Categories (generalised for all).
+Whether you're a programmer, logician or mathematician, we have some TLC for you: Types, Logic and Categories---generalised for all!
