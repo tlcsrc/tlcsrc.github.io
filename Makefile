@@ -1,6 +1,9 @@
-.PHONY: all
-
+.PHONY:
 all: gh-pages/index.html gh-pages/css/style.css gh-pages/css/styles.css
+
+.PHONY: all
+publish:
+	bin/publish
 
 gh-pages/css/style.css: css/style.css
 	rsync css/style.css gh-pages/css/style.css
