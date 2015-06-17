@@ -1,7 +1,9 @@
 html {
   position: relative;
   background: #5C97FF;
+/*
   overflow: hidden;
+*/
   height: 100%;
 }
 
@@ -16,7 +18,7 @@ html:before {
   height: 100%;
 
   z-index: 1;
-  opacity: 0.25;
+  opacity: 0.10;
 
   background-image: url(http://www.capturedbycarrie.com/blog/wp-content/uploads/2010/12/1224-newborn-triplets-photograph.jpg);
   background-repeat: no-repeat;
@@ -26,4 +28,20 @@ html:before {
   -moz-background-size: cover;
   -webkit-background-size: cover;
   background-size: cover;
+}
+
+body {
+  font-size: 150%;
+}
+h1.title {
+  display: table;
+  width: 100%;
+}
+h1.title em {
+  float: right;
+  font-size: 60%;
+  margin-top: 15px;
+}
+.footnotes {
+  font-size: 75%;
 }

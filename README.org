@@ -1,11 +1,12 @@
-#+title: TripleT SRC
 
-T^{3} … TTT … Types--Topologic--Topos
+#+title: Triplet SRC /A little TLC for all/
 
-SRC … Systems Research Centre
+A Systems Research Centre[fn:1] where the triplet of Types, Logic and Categories are put first and foremost.
 
-#+begin_quote
-Tender loving care for all
-#+end_quote
+We hope to see how [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]] is generalised in light of [[http://homotopytypetheory.org/][Homotopy Type Theory]]. We're told that the triplet Types+Logic+Categories generalises to Types+Topologic+Topos.
 
 Whether you're a programmer, logician or mathematician, we have some TLC for you: Types, Logic and Categories---generalised for all!
+
+We hope to build a programming language and principled software systems based on this foundation.
+
+[fn:1] Named in homage to the [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
