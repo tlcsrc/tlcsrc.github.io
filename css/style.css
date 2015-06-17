@@ -2,7 +2,7 @@
 html {
   position: relative;
   background: #5C97FF;
-  height: 100%;
+  height: auto;
 }
 
 html:before {
@@ -29,18 +29,19 @@ html:before {
 }
 
 body {
-  font-size: 150%;
+  font-size: 130%;
 }
 h1.title {
   display: table;
   width: 100%;
   font-weight: 800;
+  border-bottom-color: #222;
 }
 h1.title em {
   float: right;
   font-size: 60%;
   margin-top: 15px;
-  float-weight: 200;
+  font-weight: 200;
 }
 .footnotes {
   font-size: 75%;

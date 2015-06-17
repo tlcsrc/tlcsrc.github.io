@@ -13,5 +13,6 @@ gh-pages/index.html: Makefile README.org
 	  --smart \
 	  --css css/styles.css \
 	  --css=css/style.css \
+	  -t html5 \
 	  -o gh-pages/index.html \
 	README.org
