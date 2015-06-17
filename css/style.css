@@ -61,3 +61,6 @@ p em::first-letter {
 */
   text-shadow: 1px 1px 1px #333;
 }
+.center {
+  text-align: center;
+}

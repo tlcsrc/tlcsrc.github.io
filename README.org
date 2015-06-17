@@ -1,34 +1,25 @@
 
 #+title: Triplet SRC /A little TLC for all/
 
-The Systems Research Centre[fn:1] where the triplet of /Types/, /Logic/ ε̷ /Categories/ are put first and foremost.
+The Systems Research Centre[fn:1] where the triplet of /Types/, /Logic/ ε̷ /Categories/ are put first and foremost over bit-twiddling tricks.
 
 We plan to design and implement a programming language based on the [[http://www.math.ias.edu/~vladimir/Site3/Univalent_Foundations.html][Univalent Foundations]] and demonstrate it's practicality by building principled, dependable software systems. For now, we're not at all sure what that looks like… we need you!
 
 Along the way, we will see how [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]] is generalised in light of [[http://homotopytypetheory.org/][Homotopy Type Theory]]. In particular, how the the triplet:
 
-#+begin_html
-<center>
-#+end_html
+#+begin_center
 
-  /Types/ + /Logic/ + /Categories/
+/Types/ + /Logic/ + /Categories/
   
-  generalises to
+generalises to
   
-  /Types/ + /Topologic/ + /Topos/ [fn:2]
+/Types/ + /Topologic/ + /Topos/ [fn:2]
 
-#+begin_html
-</center>
-#+end_html
+#+end_center
 
 Whether you're a programmer, logician or mathematician, we have some TLC for you --- /Types/, /Logic/ and /Categories/. We also have a little /tender/ /loving/ /care/ for you---we strongly believe that when you care about the [[http://developerexperience.org/]["developer experience"]], you care about types, and logic, and categories.
 
-We welcome collaboration with researchers, autodidacts, polymaths --- you! Please also considering joing the centre. We have an open door policy but are currently not funded. It's only [[http://steshaw.org][me]] so far and frankly I need a lot of help. You could perhaps request to join the [[https://github.com/triplet-src][triplet-src GitHub organisation]] or [[mailto:src@steshaw.org][send me an email]].
+We welcome collaboration with researchers, autodidacts, polymaths --- you! We aren't funded but are open to offers. The initial and only member thus far is [[http://steshaw.org][Steven Shaw]] (me) and frankly, I need a lot of help! To become a member, join the [[https://github.com/triplet-src][triplet-src]] GitHub organisation and/or email [[mailto:src@steshaw.org][src@steshaw.org]].
 
 [fn:1] Named in homage to the original SRC, [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
-[fn:2] Here we have the genesis of the name for the centre: Types, Topologic and Topos --- TTT --- Triple T - Triplet.
-
-#+begin_html
-<script src="https://code.jquery.com/jquery-2.1.4.min.js">
-</script>
-#+end_html
+[fn:2] This is the genesis of the name "Triplet". Types + Topologic + Topos \equiv TTT \equiv Triple T \equiv TripleT \equiv Triplet.
