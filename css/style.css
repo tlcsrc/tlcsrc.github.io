@@ -4,14 +4,6 @@ html {
   background: #5C97FF;
   height: auto;
 }
-header:after {
-  visibility: hidden;
-  display: block;
-  content: " ";
-  font-size: 0;
-  height: 0;
-  clear: both;
-}
 
 html:before {
   content: '';
@@ -39,22 +31,26 @@ html:before {
 body {
   font-size: 130%;
 }
-h1.title {
-/*
+header {
+  display: flex;
+}
+header:after {
+  content: "";
   display: table;
-*/
+  clear: both;
+}
+h1.title {
   width: 100%;
   font-size: 32pt;
   font-weight: 800;
   border-bottom-color: #222;
+  align-items: baseline;
 }
 h1.title em {
   float: right;
   font-size: 60%;
-/*
-  margin-top: 15px;
-*/
   font-weight: 200;
+  align-items: baseline;
 }
 .footnotes {
   font-size: 75%;
