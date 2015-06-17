@@ -1,5 +1,20 @@
 
-[[http://www.capturedbycarrie.com/blog/wp-content/uploads/2010/12/1224-newborn-triplets-photograph.jpg]]
+#+begin_html
+<style>
+{ margin: 0; padding: 0; }
+
+html { 
+  background: url(http://www.capturedbycarrie.com/blog/wp-content/uploads/2010/12/1224-newborn-triplets-photograph.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+</style>
+#+end_html
+
 
 * T^{3} SRC
 
