@@ -1,3 +1,4 @@
+
 html {
   position: relative;
   background: #5C97FF;
@@ -49,4 +50,13 @@ h1 {
 }
 p {
   font-weight: 600;
+}
+p em {
+  display: inline-block;
+}
+p em::first-letter {
+/*
+  font-weight: 600;
+*/
+  text-shadow: 1px 1px 1px #333;
 }
