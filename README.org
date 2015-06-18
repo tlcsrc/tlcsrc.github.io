@@ -3,7 +3,7 @@
 
 The Systems Research Centre[fn:1] where the triplet of /Types/, /Logic/ ε̷ /Categories/ are put first and foremost over bit-twiddling tricks.
 
-We plan to design and implement a programming language based on the [[http://www.math.ias.edu/~vladimir/Site3/Univalent_Foundations.html][Univalent Foundations]] and demonstrate it's practicality by building principled, dependable software systems. For now, we're not at all sure what that looks like… we need you!
+We plan to design and implement a programming language based on the [[http://www.math.ias.edu/~vladimir/Site3/Univalent_Foundations.html][Univalent Foundations]] and demonstrate it's practicality by building principled, dependable software systems. For now, we're not at all sure what that looks like.
 
 Along the way, we will see how [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]] is generalised in light of [[http://homotopytypetheory.org/][Homotopy Type Theory]]. In particular, how the triplet:
 
