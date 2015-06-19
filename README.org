@@ -17,7 +17,7 @@ generalises to
 
 #+end_center
 
-Whether you're a programmer, logician or mathematician, we have a flavour of TLC for you --- /Types/, /Logic/ or /Categories/. You can also enjoy a little /tender/ /loving/ /care/---we believe that when you care about the [[http://developerexperience.org/]["developer experience"]], you care about types, and logic, and categories.
+Whether you're a programmer, logician or mathematician, we have a flavour of TLC for you --- /Types/, /Logic/ or /Categories/. You can also enjoy a little /tender/ /loving/ /care/---we believe that when you care about usability, UX and [[http://developerexperience.org/][developer experience]], you care about types, and logic, and categories.
 
 We welcome collaboration with researchers, autodidacts, polymaths --- you! We do not currently have funding but are open to offers. To become a member, join the [[https://github.com/triplet-src][triplet-src]] GitHub organisation and/or email [[mailto:src@steshaw.org][src@steshaw.org]].
 
