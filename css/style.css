@@ -58,6 +58,9 @@ h1.title em {
 h1 {
   font-weight: 700;
 }
+h2 {
+  border-bottom-color: #222;
+}
 p {
   font-weight: 600;
 }
@@ -73,3 +76,14 @@ p em::first-letter {
 .center {
   text-align: center;
 }
+
+/* 
+ * Prevent superscripts and subscript from affecting line height.
+ * See https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/
+ */
+sup, sub {
+   vertical-align: baseline;
+   position: relative;
+   top: -0.4em;
+}
+sub { top: 0.4em; }
