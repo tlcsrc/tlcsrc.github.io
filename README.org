@@ -22,5 +22,5 @@ Whether you're a programmer, logician or mathematician, we have a flavour of TLC
 We welcome collaboration with researchers, autodidacts, polymaths --- you! We do not currently have funding but are open to offers. To become a member, join the [[https://github.com/triplet-src][triplet-src]] GitHub organisation and/or email [[mailto:src@steshaw.org][src@steshaw.org]].
 
 [fn:1] Named in homage to the original SRC, [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
-[fn:2] Not that we don't love low-level, high performance bit-twiddling, it's just that we prefer to get the things right before we make them fast.
+[fn:2] Not that we don't love low-level, high performance bit-twiddling, it's just that we prefer to get things right before we make them fast.
 [fn:3] The genesis of the name "Triplet": Types + Topologic + Topos \equiv TTT \equiv Triple T \equiv TripleT \equiv Triplet.
