@@ -1,7 +1,7 @@
 
 #+title: Triplet SRC /A little TLC \forall/
 
-The Systems Research Centre[fn:1] where the triplet of /Types/, /Logic/ ε̷ /Categories/ are put first and foremost over bit-twiddling tricks[fn:2].
+The Systems Research Centre[fn:1] that takes computation trinitarianism seriously---i.e the triplet of /Types/, /Logic/ ε̷ /Categories/. We're an unfunded, not-for-profit collaboration of programmers, researchers, autodidacts and polymaths from around the globe. We want to build software systems that are reliable and so we put the triplet before low-level bit-twiddling tricks [fn:2].
 
 We plan to design and implement a programming language based on the [[http://www.math.ias.edu/~vladimir/Site3/Univalent_Foundations.html][Univalent Foundations]] and demonstrate it's practicality by building principled, dependable software systems. For now, we're not at all sure what that looks like.
 
@@ -19,11 +19,11 @@ generalises to
 
 Whether you're a programmer, logician or mathematician, we have a flavour of TLC for you --- /Types/, /Logic/ or /Categories/. You can also enjoy a little /tender/ /loving/ /care/---we believe that when you care about usability, UX and [[http://developerexperience.org/][developer experience]], you care about types, and logic, and categories.
 
-We welcome collaboration with researchers, autodidacts, polymaths --- you! We do not currently have funding but are open to offers. To become a member, join the [[https://github.com/triplet-src][triplet-src]] GitHub organisation and/or email [[mailto:src@steshaw.org][src@steshaw.org]].
+We welcome collaboration with researchers, programmers, autodidacts, polymaths --- you! To become a member, join the [[https://github.com/triplet-src][triplet-src]] GitHub organisation and/or email [[mailto:src@steshaw.org][src@steshaw.org]].
 
 #+ATTR_HTML: title="Join the chat at https://gitter.im/triplet-src/public"
 [[https://gitter.im/triplet-src/public?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][https://badges.gitter.im/Join%20Chat.svg]]
 
 [fn:1] Named in homage to the original SRC, [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
-[fn:2] Not that we don't love low-level, high performance bit-twiddling, it's just that we prefer to get things right before we make them fast.
+[fn:2] We do like low-level bit-twiddling tricks, it's just that we prefer to get things right before we make them fast. In the long-term, we believe that high-level principled design will lead to the leveraging of the an ever broader range of low-level bit-twiddling in a safe, verified manner for high performance and high confidence.
 [fn:3] The genesis of the name "Triplet": Types + Topologic + Topos \equiv TTT \equiv Triple T \equiv TripleT \equiv Triplet.
