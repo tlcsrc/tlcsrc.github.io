@@ -1,7 +1,7 @@
 
 #+title: Triplet SRC /A little TLC \forall/
 
-The Systems Research Centre[fn:1] where the triplet of /Types/, /Logic/ ε̷ /Categories/ are put first and foremost over bit-twiddling tricks.
+The Systems Research Centre[fn:1] where the triplet of /Types/, /Logic/ ε̷ /Categories/ are put first and foremost over bit-twiddling tricks[fn:2].
 
 We plan to design and implement a programming language based on the [[http://www.math.ias.edu/~vladimir/Site3/Univalent_Foundations.html][Univalent Foundations]] and demonstrate it's practicality by building principled, dependable software systems. For now, we're not at all sure what that looks like.
 
@@ -13,7 +13,7 @@ Along the way, we will see how [[https://existentialtype.wordpress.com/2011/03/2
   
 generalises to
   
-/Types/ + /Topologic/ + /Topos/ [fn:2]
+/Types/ + /Topologic/ + /Topos/ [fn:3]
 
 #+end_center
 
@@ -22,4 +22,5 @@ Whether you're a programmer, logician or mathematician, we have a flavour of TLC
 We welcome collaboration with researchers, autodidacts, polymaths --- you! We do not currently have funding but are open to offers. To become a member, join the [[https://github.com/triplet-src][triplet-src]] GitHub organisation and/or email [[mailto:src@steshaw.org][src@steshaw.org]].
 
 [fn:1] Named in homage to the original SRC, [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
-[fn:2] The genesis of the name "Triplet": Types + Topologic + Topos \equiv TTT \equiv Triple T \equiv TripleT \equiv Triplet.
+[fn:2] Not that we don't love low-level, high performance bit-twiddling, it's just that we prefer to get the things right before we make them fast.
+[fn:3] The genesis of the name "Triplet": Types + Topologic + Topos \equiv TTT \equiv Triple T \equiv TripleT \equiv Triplet.
