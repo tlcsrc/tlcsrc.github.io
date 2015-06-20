@@ -24,3 +24,7 @@ We welcome collaboration with researchers, autodidacts, polymaths --- you! We do
 [fn:1] Named in homage to the original SRC, [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
 [fn:2] Not that we don't love low-level, high performance bit-twiddling, it's just that we prefer to get the things right before we make them fast.
 [fn:3] The genesis of the name "Triplet": Types + Topologic + Topos \equiv TTT \equiv Triple T \equiv TripleT \equiv Triplet.
+
+
+  #+ATTR_HTML: title="Join the chat at https://gitter.im/triplet-src/triplet-src.github.io"
+  [[https://gitter.im/triplet-src/triplet-src.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][file:https://badges.gitter.im/Join%20Chat.svg]]
