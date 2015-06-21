@@ -1,4 +1,3 @@
-
 html {
   position: relative;
   background: #5C97FF;
@@ -32,25 +31,39 @@ body {
   font-size: 130%;
 }
 header {
+  border-bottom: 1px solid #222;
+  border-radius: 0;
+  padding-bottom: 10px;
+  width: 100%;
   display: flex;
-}
-header:after {
-  content: "";
-  display: table;
-  clear: both;
+  align-items: baseline;
+  margin-bottom: 1em;
 }
 h1.title {
-  width: 100%;
+  float: left;
+/*
+  width: 70%;
+*/
   font-size: 32pt;
   font-weight: 800;
+/*
   border-bottom-color: #222;
-  align-items: baseline;
+*/
+  border-bottom: none;
+  margin: 0;
+  padding: 0;
 }
-h1.title em {
+h1.subtitle {
   float: right;
-  font-size: 60%;
-  font-weight: 200;
-  align-items: baseline;
+  font-size: 75%;
+  font-weight: 400;
+  font-style: italic;
+  border-bottom: none;
+  flex-grow: 1;
+  flex-shrink: 1;
+  text-align: right;
+  margin: 0;
+  padding: 0;
 }
 .footnotes {
   font-size: 75%;
