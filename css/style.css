@@ -15,11 +15,12 @@ html:before {
   height: 100%;
 
   z-index: -1;
-  opacity: 0.20;
+  opacity: 0.10;
 
   background-image: url(http://www.capturedbycarrie.com/blog/wp-content/uploads/2010/12/1224-newborn-triplets-photograph.jpg);
   background-repeat: no-repeat;
-  background-position: 50% 0;
+  background-position: center;
+
   -ms-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
