@@ -3,7 +3,7 @@
 
 The Systems Research Centre[fn:1] that takes [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]] seriously---the triplet of /Types/, /Logic/ ε̷ /Categories/.
 
-Ultimately, we want to build elegant software systems that are reliable, maintainable, and composable---as well as being fun to write! We resist the temptation to compromise the principles of TLC because the promise of high performance[fn:2].
+Ultimately, we want to build elegant software systems that are reliable, maintainable, and composable---as well as being fun to write! We resist the temptation to compromise the principles of TLC in order to pursue high performance[fn:2].
 
 
 ** HoTT
