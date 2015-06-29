@@ -1,5 +1,5 @@
 .PHONY:
-all: gh-pages/index.html gh-pages/css/style.css gh-pages/css/styles.css
+all: gh-pages/favicon.ico gh-pages/TLC.png gh-pages/index.html gh-pages/css/style.css gh-pages/css/styles.css
 
 .PHONY: all
 publish:
