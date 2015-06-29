@@ -5,6 +5,12 @@ all: gh-pages/index.html gh-pages/css/style.css gh-pages/css/styles.css
 publish:
 	bin/publish
 
+gh-pages/favicon.ico: favicon.ico
+	rsync favicon.ico gh-pages/favicon.ico
+
+gh-pages/TLC.png: TLC.png
+	rsync TLC.png gh-pages/TLC.png
+
 gh-pages/css/style.css: css/style.css
 	rsync css/style.css gh-pages/css/style.css
 
