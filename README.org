@@ -29,12 +29,16 @@ Whether you're a programmer, logician or mathematician, we have a flavour of TLC
 
 We welcome collaboration with researchers, programmers, autodidacts, polymaths---you! To get started, simply join the chat (on gitter.im or freenode) and introduce yourself---or email [[mailto:src@steshaw.org][src@steshaw.org]].
 
+#+html: <div>
+
 #+ATTR_HTML: title="Join the chat at https://gitter.im/triplet-src/public"
 [[https://gitter.im/triplet-src/public?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][https://badges.gitter.im/Join%20Chat.svg]]
 
 #+begin_html
 <script async defer data-hostname="irc.freenode.net" data-channel="#triplet-src" data-port="6697" data-ssl="1" src="https://www.irccloud.com/static/invite.js"></script>
 #+end_html
+
+#+html: </div>
 
 [fn:1] Named in homage to the original SRC, [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
 [fn:2] We do like low-level bit-twiddling tricks, it's just that we prefer to get things right before we make them fast. In the long-term, we believe that high-level principled design will lead to the leveraging of the an ever broader range of low-level bit-twiddling in a safe, verified manner for high performance and high confidence.
