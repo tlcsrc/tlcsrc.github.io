@@ -30,14 +30,8 @@ Whether you're a programmer, logician or mathematician, we have a flavour of TLC
 We welcome collaboration with researchers, programmers, autodidacts, polymaths---you! To get started, simply join the chat (on gitter.im or freenode) and introduce yourself---or email [[mailto:src@steshaw.org][src@steshaw.org]].
 
 #+begin_html
-<div class="connect-buttons">
-<span>
-<a href="https://gitter.im/triplet-src/public?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge"><img src="https://badges.gitter.im/Join%20Chat.svg" alt=""></a>
-</span>
-<span>
+<a href="https://gitter.im/triplet-src/public?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge"><img src="https://badges.gitter.im/Join%20Chat.svg" alt=""></a><br/>
 <script async defer data-hostname="irc.freenode.net" data-channel="#triplet-src" data-port="6697" data-ssl="1" src="https://www.irccloud.com/static/invite.js"></script>
-</span>
-</div>
 #+end_html
 
 [fn:1] Named in homage to the original SRC, [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].

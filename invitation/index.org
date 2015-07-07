@@ -1,5 +1,5 @@
-#+title: Invitation to Triplet SRC
-#+subtitle: Welcome to Triplet SRC
+#+title: Welcome to Triplet SRC
+#+subtitle: Built with TLC
 
 You are cordially invited you to join the [[http://triplet-src.github.io][Triplet Systems Research Centre]]---an independent research centre focusing on Types, Logic and Categories (TLC). We love programming languages and---together---we hope to contribute to the field.
 

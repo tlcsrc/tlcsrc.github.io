@@ -27,6 +27,7 @@ gh-pages/index.html: Makefile README.org
 	pandoc \
 	  --smart \
 	  --css=css/style.css \
+	  --css=css/styles.css \
 	  -t html5 \
 	  -o gh-pages/index.html \
 	README.org
@@ -35,6 +36,7 @@ gh-pages/invitation/index.html: Makefile invitation/index.org
 	pandoc \
 	  --smart \
 	  --css=../css/style.css \
+	  --css=../css/styles.css \
 	  -t html5 \
 	  -o gh-pages/invitation/index.html \
 	invitation/index.org
