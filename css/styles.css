@@ -147,7 +147,7 @@ dl p {
 
 hr {
   border: 0;
-  background: #ccc;
+  background: #555;
   height: 1px;
   margin: 0 0 24px;
 }
@@ -358,7 +358,7 @@ footer {
   }
 
   footer {
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #555;
     margin:0 84px 0 50px;
     padding:0;
   }

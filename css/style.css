@@ -88,6 +88,9 @@ h2 {
   border-bottom-color: #222;
   font-weight: 600;
 }
+h3 {
+  border-bottom-color: #555;
+}
 p {
   font-weight: 400;
 }
