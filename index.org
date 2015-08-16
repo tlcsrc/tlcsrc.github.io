@@ -1,4 +1,4 @@
-#+title: Triplet SRC
+#+title: TLC SRC
 #+subtitle: Built with TLC
 
 The Systems Research Centre[fn:1] that takes [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]] seriously---the triplet of /Types/, /Logic/ ε̷ /Categories/.
