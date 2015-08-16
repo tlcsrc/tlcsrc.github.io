@@ -1,4 +1,4 @@
 [submodule "gh-pages"]
 	path = gh-pages
-	url = git@github.com:triplet-src/triplet-src.github.io.git
+	url = git@github.com:tlcsrc/tlcsrc.github.io.git
 	branch = master
