@@ -5,7 +5,7 @@ The Systems Research Centre[fn:1] that takes [[https://existentialtype.wordpress
 
 Ultimately, we want to build elegant software systems that are reliable, maintainable, and composable---as well as being fun to write! We resist the temptation to compromise the principles of TLC in order to pursue high performance[fn:2].
 
-Please find a list of [[/projects][current projects here]].
+Please find a list of [[http://tlcsrc.github.com/projects][current projects here]].
 
 
 ** Higher Type Theory
