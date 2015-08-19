@@ -121,3 +121,14 @@ sub { top: 0.4em; }
 div.connect-buttons span {
   margin-right: 0.5em;
 }
+
+div.connections {
+  display: flex;
+  flex-direction: column;
+  float: right;
+}
+
+div.connection {
+  vertical-align: top;
+  margin-right: 25px;
+}
