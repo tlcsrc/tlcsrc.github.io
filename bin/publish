@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-
-set -eu
-
-make
-cd gh-pages
-git commit -am "Updated at $(timestamp)"
-git push
