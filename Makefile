@@ -24,7 +24,8 @@ gh-pages/css/styles.css: css/styles.css
 	rsync css/styles.css gh-pages/css/styles.css
 
 gh-pages/index.html: Makefile README.org
-	pandoc \
+	-mkdir -p gh-pages
+	-pandoc \
 	  --smart \
 	  --css=css/styles.css \
 	  --css=css/style.css \
@@ -33,7 +34,8 @@ gh-pages/index.html: Makefile README.org
 	README.org
 
 gh-pages/invitation/index.html: Makefile invitation/index.org
-	pandoc \
+	-mkdir -p gh-pages/invitation gh-pages/css
+	-pandoc \
 	  --smart \
 	  --css=../css/styles.css \
 	  --css=../css/style.css \

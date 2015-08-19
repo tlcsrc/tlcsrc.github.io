@@ -2,6 +2,11 @@
 
 set -eu
 
+if [[ ! -d gh-pages ]]; then
+  echo "gh-pages does not exist. Do you need to \`git submodule update --init\`?"
+  exit 1
+fi
+
 make
 cd gh-pages
 git commit -am "Updated at $(timestamp)"
