@@ -9,5 +9,6 @@ fi
 
 make
 cd gh-pages
-git commit -am "Updated at $(timestamp)"
+git add -A
+git commit -m "Updated at $(timestamp)"
 git push
