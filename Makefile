@@ -34,13 +34,3 @@ gh-pages/index.html: Makefile README.org
 	  -t html5 \
 	  -o gh-pages/index.html \
 	README.org
-
-gh-pages/projects/index.html: Makefile projects/index.org
-	-mkdir -p gh-pages/projects
-	-pandoc \
-	  --smart \
-	  --css=../css/styles.css \
-	  --css=../css/style.css \
-	  -t html5 \
-	  -o gh-pages/projects/index.html \
-	projects/index.org

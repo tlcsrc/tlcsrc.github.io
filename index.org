@@ -1,26 +1,15 @@
 #+title: TLC SRC
 #+subtitle: Built with TLC
 
-The Systems Research Centre[fn:1] that takes [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]] seriously---the triplet of /Types/, /Logic/ ε̷ /Categories/.
+The Systems Research Centre[fn:1] that takes [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]] seriously---the triplet of /Types/, /Logic/ & /Categories/.
 
 Ultimately, we want to build elegant software systems that are reliable, maintainable, and composable---as well as being fun to write! We resist the temptation to compromise the principles of TLC in order to pursue high performance[fn:2].
-
-Please find a list of [[http://tlcsrc.github.io/projects][current projects here]].
-
-
-** Higher Type Theory
-
-We plan to design and implement a programming language based on the [[http://www.math.ias.edu/~vladimir/Site3/Univalent_Foundations.html][Univalent Foundations]] and demonstrate it's practicality by building principled, dependable software systems. Along the way, we will see how computational trinitarianism is generalised in light of [[http://homotopytypetheory.org/][Homotopy Type Theory]].
 
 #+begin_html
 <h2 id="invitation">Join us</h2>
 #+end_html
 
-Whether you're a programmer, logician or mathematician, we have a flavour of TLC for you! We'd also like to spread a little /tender/ /loving/ /care/---we believe that when you care about usability[fn:4], you inevitably care about TLC.
-
-We welcome collaboration with researchers, programmers, autodidacts, polymaths---you! To get started, simply join the chat, [[https://groups.google.com/forum/#!forum/tlcsrc][mailing list]] or email [[mailto:src@steshaw.org][src@steshaw.org]].
-
-Hope you'll join the fun! Connect with us:
+We welcome discussion with researchers, programmers, autodidacts, polymaths---you! Simply join the chat, [[https://groups.google.com/forum/#!forum/tlcsrc][mailing list]] or email [[mailto:src@steshaw.org][src@steshaw.org]].
 
 - [[https://www.irccloud.com/#!/ircs://irc.freenode.net:6697/%23%23tlc][##tlc on freenode]]
 - [[https://gitter.im/tlcsrc/public][tlcsrc/public on Gitter]]
@@ -39,5 +28,3 @@ Hope you'll join the fun! Connect with us:
 
 [fn:1] Named in homage to the original SRC, [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
 [fn:2] We do like low-level bit-twiddling tricks, it's just that we prefer to get things right before we make them fast. In the long-term, we believe that high-level principled design will lead to the leveraging of the an ever broader range of low-level bit-twiddling in a safe, verified manner for high performance and high confidence.
-[fn:3] The genesis of the name "Triplet": Types + Topologic + Topos \equiv TTT \equiv Triple T \equiv TripleT \equiv Triplet.
-[fn:4] Usability includes the notions of User Experience (UX) and [[http://developerexperience.org/][Developer Experience]] (DX). Somehow TLC is fundamental to usability.
