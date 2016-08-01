@@ -3,7 +3,6 @@ all: \
   gh-pages/favicon.ico \
   gh-pages/TLC.png \
   gh-pages/index.html \
-  gh-pages/projects/index.html \
   gh-pages/css/style.css \
   gh-pages/css/styles.css
 
