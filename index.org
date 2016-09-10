@@ -9,7 +9,7 @@ Ultimately, we want to build elegant software systems that are reliable, maintai
 <h2 id="invitation">Join us</h2>
 #+end_html
 
-We welcome discussion with researchers, programmers, autodidacts, polymaths---you! Simply join the chat, [[https://groups.google.com/forum/#!forum/tlcsrc][mailing list]] or email [[mailto:src@steshaw.org][src@steshaw.org]].
+We welcome discussion with researchers, programmers, autodidacts---you! Simply join the chat, [[https://groups.google.com/forum/#!forum/tlcsrc][mailing list]] or email [[mailto:src@steshaw.org][src@steshaw.org]].
 
 - [[https://www.irccloud.com/#!/ircs://irc.freenode.net:6697/%23%23tlc][##tlc on freenode]]
 - [[https://gitter.im/tlcsrc/public][tlcsrc/public on Gitter]]
