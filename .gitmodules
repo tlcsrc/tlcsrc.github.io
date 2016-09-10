@@ -1,3 +1,4 @@
 [submodule "gh-pages"]
-	path = gh-pages
-	url = git@github.com:tlcsrc/tlcsrc.github.io.git
+  path = gh-pages
+  url = git@github.com:tlcsrc/tlcsrc.github.io.git
+  branch = master
