@@ -1,9 +1,9 @@
 #+title: TLC SRC
 #+subtitle: Built with TLC
 
-The Systems Research Centre[fn:1] that takes [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]] seriously --- /Types/, /Logic/ & /Categories/.
+The Systems Research Centre[fn:1] that takes [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]] seriously. That is /Types/, /Logic/ & /Categories/.
 
-Ultimately, we want to enable programmers to build software systems that are elegant, reliable, maintainable, and composable---as well as being fun to write! We resist the temptation to compromise the principles of TLC in order to pursue high performance[fn:2].
+Ultimately, we want to enable programmers to build software systems that are elegant, reliable, maintainable---as well as being fun to write! We resist the temptation to compromise the principles of TLC in order to pursue high performance[fn:2].
 
 #+begin_html
 <h2 id="invitation">Join us</h2>
