@@ -124,7 +124,7 @@ div.connect-buttons span {
 
 div.connections {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   float: right;
 }
 
