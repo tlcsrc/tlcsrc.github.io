@@ -27,9 +27,7 @@ gh-pages/css/styles.css: css/styles.css
 gh-pages/index.html: Makefile README.org
 	-mkdir -p gh-pages
 	-pandoc \
-	  --smart \
-	  --css=css/styles.css \
-	  --css=css/style.css \
+	  -smart \
 	  -t html5 \
 	  -o gh-pages/index.html \
 	README.org
