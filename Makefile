@@ -2,6 +2,7 @@
 all: \
   gh-pages/favicon.ico \
   gh-pages/TLC.png \
+  gh-pages/img/1224-newborn-triplets-photograph.jpg \
   gh-pages/index.html \
   gh-pages/css/style.css \
   gh-pages/css/styles.css
@@ -11,23 +12,24 @@ publish:
 	-bin/publish
 
 gh-pages/favicon.ico: favicon.ico
-	-rsync favicon.ico gh-pages/favicon.ico
+	-rsync --relative $< gh-pages
 
 gh-pages/TLC.png: TLC.png
-	-rsync TLC.png gh-pages/TLC.png
+	-rsync --relative $< gh-pages
+
+gh-pages/img/1224-newborn-triplets-photograph.jpg: img/1224-newborn-triplets-photograph.jpg
+	-rsync --relative $< gh-pages
 
 gh-pages/css/style.css: css/style.css
-	-mkdir -p gh-pages/css
-	-rsync css/style.css gh-pages/css/style.css
+	-rsync --relative $< gh-pages
 
 gh-pages/css/styles.css: css/styles.css
-	-mkdir -p gh-pages/css
-	-rsync css/styles.css gh-pages/css/styles.css
+	-rsync --relative $< gh-pages
 
 gh-pages/index.html: Makefile README.org
 	-mkdir -p gh-pages
 	-pandoc \
-	  -smart \
+		--standalone \
 	  -t html5 \
 	  -o gh-pages/index.html \
 	README.org
