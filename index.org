@@ -4,9 +4,9 @@
 #+html_head: <link rel="stylesheet" href="css/style.css">
 
 #+title: TLC SRC
-#+subtitle: Built with TLC
 
-The Systems Research Centre[fn:1] that takes [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]] seriously. That is:
+The "Systems Research Centre"[fn:1] that practises
+[[https://ncatlab.org/nlab/show/computational+trinitarianism][computational trinitarianism]]:
 
 #+begin_html
 <div class="tlc">
@@ -14,39 +14,25 @@ The Systems Research Centre[fn:1] that takes [[https://existentialtype.wordpress
 </div>
 #+end_html
 
-We encourage and enable programmers to build software systems that are elegant, reliable, maintainable---as well as being fun to write! We resist the temptation to compromise our principles in order to pursue high performance[fn:2].
+We build software systems that are elegant, reliable, maintainable. We resist
+the temptation to compromise our principles in order to pursue high
+performance[fn:2].
 
 #+begin_html
-<h2 id="invitation">Join us</h2>
+<h2 id="invitation">Contact us</h2>
 #+end_html
 
-We welcome collaboration with programmers, researchers, autodidacts---you! Simply join the chat:
+We love to work, learn and collaborate with programmers, researchers and autodidacts.
 
 #+begin_html
-<ul>
-  <li>
-    <a href="https://gitter.im/tlcsrc/public">tlcsrc/public on Gitter</a>
-  </li>
-  <li>
-    <a href="https://www.irccloud.com/#!/ircs://irc.freenode.net:6697/%23%23tlcsrc">##tlcsrc on freenode</a>
-  </li>
-  <li>
-    <a href="https://groups.google.com/forum/#!forum/tlcsrc">mailing list</a>
-  </li>
-  <li>
-    <a href="mailto:steven@steshaw.org">direct email</a>
-  </li>
-</ul>
-
-<div>
-
-<!--
-  <script async defer data-hostname="irc.freenode.net" data-channel="##tlc" data-port="6697" data-ssl="1" src="https://www.irccloud.com/static/invite.js"></script>
--->
-
-  <a href="https://gitter.im/tlcsrc/public?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge"><img style="margin: 0;" src="https://badges.gitter.im/Join%20Chat.svg" alt=""></a>
-</div>
+You can contact us at <a href="mailto:steven@steshaw.org">steven@steshaw.org</a>.
 #+end_html
 
-[fn:1] Named in homage to the original SRC, [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
-[fn:2] We do like low-level bit-twiddling tricks, it's just that we prefer to get things right before we make them fast. In the long-term, we believe that high-level principled design will lead to the leveraging of the an ever broader range of low-level bit-twiddling in a safe, verified manner for high performance together with high confidence.
+[fn:1] Named in homage to the original SRC,
+[[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
+Unfortunately, not actually a research centre---more of a Haskell consultancy.
+[fn:2] We do like low-level bit-twiddling tricks, it's just that we prefer to
+get things right before we make them fast. In the long-term, we believe that
+high-level principled design will lead to the leveraging of the an ever
+broader range of low-level bit-twiddling in a safe, verified manner for high
+performance together with high confidence.
