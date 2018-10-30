@@ -2,7 +2,7 @@
 all: \
   gh-pages/favicon.ico \
   gh-pages/TLC.png \
-  gh-pages/img/1224-newborn-triplets-photograph.jpg \
+  gh-pages/img/triplets.png \
   gh-pages/index.html \
   gh-pages/css/style.css \
   gh-pages/css/styles.css
@@ -17,7 +17,7 @@ gh-pages/favicon.ico: favicon.ico
 gh-pages/TLC.png: TLC.png
 	-rsync --relative $< gh-pages
 
-gh-pages/img/1224-newborn-triplets-photograph.jpg: img/1224-newborn-triplets-photograph.jpg
+gh-pages/img/triplets.png: img/triplets.png
 	-rsync --relative $< gh-pages
 
 gh-pages/css/style.css: css/style.css
