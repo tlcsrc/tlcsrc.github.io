@@ -97,6 +97,11 @@ header p.subtitle {
 }
 .footnotes {
   font-size: 75%;
+  border-top: 1px solid #222;
+  margin-top: 2em;
+}
+.footnotes hr {
+  display: none;
 }
 h1 {
   font-weight: 700;

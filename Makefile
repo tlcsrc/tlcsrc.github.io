@@ -29,7 +29,7 @@ gh-pages/css/styles.css: css/styles.css
 gh-pages/index.html: Makefile README.org
 	-mkdir -p gh-pages
 	-pandoc \
-		--standalone \
+	  --standalone \
 	  -t html5 \
 	  -o gh-pages/index.html \
 	README.org
