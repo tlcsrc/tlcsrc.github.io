@@ -21,7 +21,7 @@ performance[fn:2].
 <h2 id="invitation">Contact us</h2>
 #+end_html
 
-We love to work, learn and collaborate with programmers, researchers and autodidacts.
+We love to work, learn and collaborate with programmers, researchers, and autodidacts.
 
 #+begin_html
 You can contact us at <a href="mailto:steven@steshaw.org">steven@steshaw.org</a>.
