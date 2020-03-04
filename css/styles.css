@@ -29,26 +29,13 @@ body {
   padding: 10px 50px 0 0;
   padding: 0;
   font-family: 'Open Sans', Verdana, Arial, sans-serif;
-/*
-  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-*/
   font-size: 20px;
   color: #232323;
-/*
-  background-color: #FBFAF7;
-  margin: 0;
-  margin: 25px 25px;
-*/
-/*
-  width: 600px;
-  margin: auto;
-*/
   width: 80%;
   max-width: 650px;
+  min-width: 300px;
+  min-height: 1100px;
   margin: auto;
-/*
-  line-height: 1.8em;
-*/
   -webkit-font-smoothing: antialiased;
 }
 
@@ -151,8 +138,9 @@ dl p {
 hr {
   border: 0;
   background: #555;
-  height: 1px;
+  height: 0px;
   margin: 0 0 24px;
+  display: none;
 }
 
 /* Images */
@@ -333,21 +321,21 @@ a.buttons:hover {
   text-decoration: none;
 }
 
+section.footnotes {
+   position: fixed;
+   bottom: 0;
+   max-width: 650px;
+   margin: auto;
 
-/* Section - for main page content */
-section {
-  width:650px;
-  float:right;
-  padding-bottom:50px;
 }
 
-/* Footer */
-footer {
-  width:170px;
-  float:left;
-  position:fixed;
-  bottom:10px;
-  padding-left: 50px;
+section.footnotes ol {
+  border-top: 1px solid #222;
+  padding-top: 5px;
+}
+
+section.footnotes p {
+  margin-bottom: 5px;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -357,9 +345,9 @@ footer {
   }
 
   header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
+    float: none;
+    position: static;
+    width: auto;
   }
 
   footer {
@@ -369,9 +357,6 @@ footer {
   }
 
   header {
-/*
-    padding-right: 320px;
-*/
   }
 
   section {
@@ -429,6 +414,9 @@ footer {
     display: block;
   }
 
+  section.footnotes {
+    position: static; /* turn off fixed footer */
+  }
 }
 
 @media print {
@@ -437,4 +425,8 @@ footer {
     font-size: 12pt;
     color: #444;
   }
+}
+
+small {
+  font-size: 60%;
 }

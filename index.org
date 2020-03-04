@@ -5,11 +5,17 @@
 
 #+title: TLC SRC
 
-The "Systems Research Centre"[fn:1] that practises [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]]:
+#+begin_html
+<small>
+#+end_html
+The Systems Research Centre[fn:1] that practises [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]]:
+#+begin_html
+</small>
+#+end_html
 
 #+begin_html
 <div class="tlc">
-  <p><span class="tlcx">T</span>ypes, <span class="tlcx">L</span>ogic &amp; <span class="tlcx">C</span>ategories</p>
+  <p><span class="tlcx">T</span>ypes, <span class="tlcx">L</span>ogic, &amp; <span class="tlcx">C</span>ategories</p>
 </div>
 #+end_html
 
@@ -17,14 +23,15 @@ We build software systems that are elegant, reliable, maintainable. We resist
 the temptation to compromise our principles in order to pursue high
 performance[fn:2].
 
-#+begin_html
-<h2 id="invitation">Contact us</h2>
-#+end_html
+ # #+begin_html
+ # <h2 id="invitation">Contact us</h2>
+ # #+end_html
 
-We love to work, learn and collaborate with programmers, researchers, and autodidacts.
-
+We love to work, learn, and collaborate with entrepreneurs, programmers, researchers, and autodidacts.
 #+begin_html
-You can contact us at <a href="mailto:hello@tlcsrc.com">hello@tlcsrc.com</a>.
+<center>
+<a href="mailto:hello@tlcsrc.com">hello@tlcsrc.com</a>
+</center>
 #+end_html
 
 [fn:1] Named in homage to the original SRC,

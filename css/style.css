@@ -29,28 +29,19 @@ html:before {
 }
 
 body {
-  font-size: 130%;
+  font-size: 18px;
 }
 header {
+/*
   border-bottom: 1px solid #222;
+*/
   border-radius: 0;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
   width: 100%;
   overflow: auto;
-
-/*
-  display: -webkit-flex;
-  display: -moz-box;
-  display: -ms-flexbox;
-*/
   display: flex;
-
-/*
-  -webkit-align-items: baseline;
-*/
   align-items: baseline;
-
-  margin-bottom: 1em;
+  margin-bottom: 0em;
 }
 header h1.title {
   width: 50%;
@@ -59,16 +50,10 @@ header h1.title {
 
   font-size: 48px;
   font-weight: 800;
-/*
-  border-bottom-color: #222;
-*/
+
   border-bottom: none;
   margin: 0;
   padding: 0;
-
-/*
-  align-self: flex-start;
-*/
 }
 header p.subtitle {
   width: 50%;
@@ -80,24 +65,11 @@ header p.subtitle {
   font-style: italic;
   border-bottom: none;
 
-/*
-  -webkit-flex-grow: 1;
-  flex-grow: 1;
-
-  -webkit-flex-shrink: 1;
-  flex-shrink: 1;
-*/
-
   margin: 0;
   padding: 0;
-/*
-  display: flex;
-  align-self: flex-end;
-*/
 }
 .footnotes {
   font-size: 75%;
-  border-top: 1px solid #222;
   margin-top: 2em;
 }
 .footnotes hr {
@@ -113,11 +85,6 @@ h2 {
 h3 {
   border-bottom-color: #555;
 }
-/*
-p {
-  font-weight: 400;
-}
-*/
 p em {
   display: inline-block;
 }
@@ -131,7 +98,7 @@ p em::first-letter {
   text-align: center;
 }
 
-/* 
+/*
  * Prevent superscripts and subscript from affecting line height.
  * See https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/
  */
@@ -158,9 +125,6 @@ div.connection {
 }
 
 .tlc {
-/*
-  font-family: Baskerville, 'Goudy Old Style', Palatino, 'Book Antiqua', serif;
-*/
   font-family: 'Goudy Old Style', Palatino, 'Book Antiqua', serif;
   font-style: italic;
   font-size: 42px;
@@ -168,6 +132,7 @@ div.connection {
   margin-left: auto;
   display: flex;
   justify-content: center;
+  margin-top: 100px;
 }
 
 .tlcx {
