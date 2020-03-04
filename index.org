@@ -29,9 +29,9 @@ performance[fn:2].
 
 We love to work, learn, and collaborate with entrepreneurs, programmers, researchers, and autodidacts.
 #+begin_html
-<center>
+<p class="center">
 <a href="mailto:hello@tlcsrc.com">hello@tlcsrc.com</a>
-</center>
+</p>
 #+end_html
 
 [fn:1] Named in homage to the original SRC,
