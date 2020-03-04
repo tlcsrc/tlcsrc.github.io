@@ -24,7 +24,7 @@ performance[fn:2].
 We love to work, learn and collaborate with programmers, researchers, and autodidacts.
 
 #+begin_html
-You can contact us at <a href="mailto:steven@steshaw.org">steven@steshaw.org</a>.
+You can contact us at <a href="mailto:hello@tlcsrc.com">hello@tlcsrc.com</a>.
 #+end_html
 
 [fn:1] Named in homage to the original SRC,
