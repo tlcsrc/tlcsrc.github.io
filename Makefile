@@ -9,7 +9,7 @@ all: \
 
 .PHONY: all
 publish:
-	-bin/publish
+	-scripts/publish
 
 gh-pages/favicon.ico: favicon.ico
 	-rsync --relative $< gh-pages
