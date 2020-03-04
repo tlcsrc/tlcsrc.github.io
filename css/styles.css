@@ -325,8 +325,8 @@ section.footnotes {
    position: fixed;
    bottom: 0;
    max-width: 650px;
+   width: 80%;
    margin: auto;
-
 }
 
 section.footnotes ol {
@@ -360,8 +360,12 @@ section.footnotes p {
   }
 
   section {
-    padding:20px 84px 20px 50px;
-    margin:0 0 20px;
+    padding: 20px 84px 20px 50px;
+    margin: 0 0 20px;
+  }
+  section.footnotes {
+    padding: 0;
+    margin: auto;
   }
 
   header a small {
@@ -395,6 +399,10 @@ section.footnotes p {
   footer {
     margin: 0 0 0 30px;
   }
+  section.footnotes {
+      padding: 0;
+      margin: auto;
+  }
 
   header ul, header p.view {
     position: static;
@@ -416,6 +424,8 @@ section.footnotes p {
 
   section.footnotes {
     position: static; /* turn off fixed footer */
+    padding: 0;
+    margin: auto;
   }
 }
 
@@ -428,5 +438,5 @@ section.footnotes p {
 }
 
 small {
-  font-size: 60%;
+  font-size: 75%;
 }

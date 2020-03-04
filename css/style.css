@@ -30,6 +30,7 @@ html:before {
 
 body {
   font-size: 18px;
+  padding: 1.5em;
 }
 header {
 /*
@@ -132,7 +133,7 @@ div.connection {
   margin-left: auto;
   display: flex;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 25px;
 }
 
 .tlcx {
