@@ -36,9 +36,10 @@ We love to work, learn, and collaborate with entrepreneurs, programmers, researc
 
 [fn:1] Named in homage to the original SRC,
 [[https://en.wikipedia.org/wiki/DEC_Systems_Research_Center][DEC SRC]].
-Unfortunately, not actually a research centre---more of a Haskell consultancy.
-[fn:2] We do like low-level bit-twiddling tricks, it's just that we prefer to
-get things right before we make them fast. In the long-term, we believe that
-high-level principled design will lead to the leveraging of the an ever
-broader range of low-level bit-twiddling in a safe, verified manner for high
-performance together with high confidence.
+Unfortunately, not actually a research centre---more of a software
+consultancy.
+[fn:2] We do like low-level bit-twiddling tricks, it's just that we prefer
+to get things right before we make them fast. In the long-term, we believe
+that high-level principled design will lead to the leveraging of the an ever
+broader range of low-level bit-twiddling in a safe, automated manner for
+high performance together with high confidence.
