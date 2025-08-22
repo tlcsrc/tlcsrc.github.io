@@ -2,8 +2,8 @@
 
 set -eu
 
-if [[ ! -d gh-pages ]]; then
-  echo "gh-pages does not exist. Do you need to \`git submodule update --init\`?"
+if [[ ! -r ./gh-pages/.git ]]; then
+  echo "gh-pages submodule is not initialized. Do you need to \`git submodule update --init --recursive\`?"
   exit 1
 fi
 
