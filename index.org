@@ -30,7 +30,7 @@ performance[fn:2].
 We love to work, learn, and collaborate with entrepreneurs, programmers, researchers, and autodidacts.
 #+begin_html
 <p class="center">
-<a href="mailto:hello@tlcsrc.com">hello@tlcsrc.com</a>
+<a href="mailto:steven@steshaw.org">steven@steshaw.org</a>
 </p>
 #+end_html
 
