@@ -6,11 +6,11 @@
 #+title: TLC SRC
 
 #+begin_html
-<small>
+<div class="subtitle">
 #+end_html
-The Systems Research Centre[fn:1] that practises [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]]:
+The Systems Research Centre[fn:1] that practises [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]]
 #+begin_html
-</small>
+</div>
 #+end_html
 
 #+begin_html
@@ -30,9 +30,9 @@ performance[fn:2] or the folly of "faster" delivery.
 We love to work, learn, and collaborate with enterprises, entrepreneurs,
 programmers, researchers, and autodidacts.
 #+begin_html
-<p class="center">
-<a href="mailto:steven@steshaw.org">steven@steshaw.org</a>
-</p>
+<div class="contact">
+  <a href="mailto:steven@steshaw.org">steven@steshaw.org</a>
+</div>
 #+end_html
 
 [fn:1] Named in homage to the original SRC,
