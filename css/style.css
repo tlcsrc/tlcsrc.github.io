@@ -40,13 +40,15 @@ header {
   padding-bottom: 0px;
   width: 100%;
   overflow: auto;
+  /*
   display: flex;
+  */
   align-items: baseline;
   margin-bottom: 0em;
 }
 header h1.title {
-  width: 50%;
   /*
+  width: 50%;
   float: left;
   */
   white-space: nowrap;
