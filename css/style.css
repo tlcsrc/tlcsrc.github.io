@@ -40,13 +40,15 @@ header {
   padding-bottom: 0px;
   width: 100%;
   overflow: auto;
+  /*
   display: flex;
+  */
   align-items: baseline;
   margin-bottom: 0em;
 }
 header h1.title {
-  width: 50%;
   /*
+  width: 50%;
   float: left;
   */
   white-space: nowrap;
@@ -139,7 +141,7 @@ div.connection {
   margin-left: auto;
   display: flex;
   justify-content: center;
-  margin-top: 3cm;
+  margin-top: 2cm;
 }
 
 .tlcx {
