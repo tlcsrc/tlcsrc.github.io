@@ -64,9 +64,11 @@ header h1.title {
   margin-right: auto;
 }
 header p.subtitle {
+  /*
   width: 50%;
   float: right;
   text-align: right;
+  */
 
   font-size: 75%;
   font-weight: 600;
