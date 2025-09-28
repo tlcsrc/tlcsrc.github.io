@@ -5,13 +5,7 @@
 
 #+title: TLC SRC
 
-#+begin_html
-<div class="subtitle">
-#+end_html
-The Systems Research Centre[fn:1] that practises [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]]
-#+begin_html
-</div>
-#+end_html
+#+subtitle: The Systems Research Centre[fn:1] that practises [[https://existentialtype.wordpress.com/2011/03/27/the-holy-trinity/][computational trinitarianism]]
 
 #+begin_html
 <div class="tlc">
