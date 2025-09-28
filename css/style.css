@@ -58,6 +58,8 @@ header h1.title {
   margin: 0;
   padding: 0;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 header p.subtitle {
   width: 50%;
