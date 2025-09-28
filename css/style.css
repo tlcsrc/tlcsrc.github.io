@@ -46,7 +46,9 @@ header {
 }
 header h1.title {
   width: 50%;
+  /*
   float: left;
+  */
   white-space: nowrap;
 
   font-size: 48px;
@@ -55,6 +57,7 @@ header h1.title {
   border-bottom: none;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 header p.subtitle {
   width: 50%;
