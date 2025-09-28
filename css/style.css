@@ -102,6 +102,7 @@ p em::first-letter {
 }
 .contact {
   text-align: center;
+  margin-top: 3cm;
 }
 
 /*
@@ -138,7 +139,7 @@ div.connection {
   margin-left: auto;
   display: flex;
   justify-content: center;
-  margin-top: 25px;
+  margin-top: 3cm;
 }
 
 .tlcx {
